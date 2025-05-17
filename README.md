@@ -22,7 +22,7 @@ I’m eager to collaborate on:
 ## 📫 How to Reach Me
 Feel free to connect or discuss collaborations:
 - **GitHub Discussions**: Drop a message in my public repositories.
-- **Email**: [hreidar1987@gmail.com](mailto:hreidar1987@gmail.com) *(replace with your actual email)*
+- **Email**: [hreidar1987@gmail.com](mailto:hreidar1987@gmail.com)
 
 ## 😄 Pronouns
 He/Him
