@@ -27,12 +27,9 @@ Feel free to connect or discuss collaborations:
 ## 😄 Pronouns
 He/Him
 
-## ⚡ Fun Fact
-I thrive on turning challenges into opportunities and love experimenting with new technologies. When I’m not coding, you’ll often find me exploring ways to simplify complex problems—or brainstorming my next creative project.
-
 ---
 
-This GitHub profile is a snapshot of my journey in the world of technology. Each repository reflects a story of growth, learning, and curiosity. Take a look around, and let’s build something amazing together! 🚀
+This GitHub profile is a snapshot of my journey in the world of technology. Each repository reflects a story of growth, learning, and curiosity 🚀
 
 <!---
 hnodriturbo/hnodriturbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
